@@ -10,5 +10,4 @@ This work aims to demonstrate:
 - **folders 1 to 8**: Contains the benchmark video dataset created for each one of the 8 Thattadavus.
 - **convlstm-Bharatnatyam**: Contains the implementation of the methodology of convlstm.
 
-- 
 
